@@ -11,16 +11,16 @@ Usage:
 
 Credentials to LOGIN!
 
-1. Get Cookie account with extension Install: Export cookie JSON file for Puppeteer
+1. Ambil Cookie akun dengan Install extension: Export cookie JSON file for Puppeteer
 
   ![image](https://user-images.githubusercontent.com/73378179/169752952-7e43f237-f345-4abc-83ae-3edcf6690dc7.png)
   
-2. Open https://streamelements.com/ and login to your account
+2. Open https://jd.id/ dan login dengan account anda
 
 3. Click Extension and click Export cookies as JSON
 
  ![image](https://user-images.githubusercontent.com/73378179/169753083-6aea5ea5-c601-4f57-b159-5769b27a533a.png)
 
-4. copy file to folder Bot
+4. Pindahkan file yang didownload ke folder botnya
 
 5. Run the program
