@@ -4,7 +4,7 @@ Usage:
 
     1. Download script
 
-    2. Install Python 3.9, ketika di tampilan awal install, liat di ujung kiri bawah, ceklis Add to Path. 
+    2. Install Python 3.9
  
     3. buka CMD/Terminal pada folder botnya, ketik pip install -r requirements.txt
     
@@ -21,6 +21,6 @@ Credentials to LOGIN!
 
  ![image](https://user-images.githubusercontent.com/73378179/169753083-6aea5ea5-c601-4f57-b159-5769b27a533a.png)
 
-4. Pindahkan file yang didownload ke folder botnya
+4. Move the file that was download to bot folder
 
 5. Run the program
